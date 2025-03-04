@@ -1,0 +1,447 @@
+Dinner Menu
+Descriptions 
+December 2024
+Dish Photo Wording Allergens Marking Notes
+MEZZE
+Taramasalata Cod Mousse with
+Bottarga and Trout
+Roe
+Gluten
+Dairy
+Fish
+Allium
+Mezze Spoon
+Tzatziki
+Cucumber and Lemon
+Yogurt with Garlic and
+Herbs
+Dairy
+Allium Mezze Spoon
+Muhammara Roasted Pepper and
+Walnut Spread
+Nuts
+Gluten
+Allium
+Nightshade
+Mezze Spoon
+Hummus
+Chickpea Puree with
+Sesame, Lemon and
+Garlic
+Sesame
+Allium
+Legumes
+Mezze Spoon
+Baba Ghanoush Roasted Eggplant with
+Tahini and Olive Oil
+Nightshade
+Sesame
+Allium
+Mezze Spoon
+
+Tirokafteri Spicy Whipped Feta
+Dairy
+Nightshade
+Allium
+Mezze Spoon
+CRUDOS
+Oysters
+East Coast Oysters on
+the Half Shell with
+Lulo-White Balsamic
+Mignonette
+Mollusks
+Sulfite
+Allium
+Oyster Fork
+Kibbeh Nayeh
+Minced Lamb and
+Bulgur Wheat Tartare
+with Smoked
+Eggplant, Methi
+Labneh and Dukkah
+Allium
+Gluten
+Nuts
+Dairy
+Nightshade
+Fork
+Butter Knife
+Caviar
+Antonious (Siberian or
+Oscietra) Caviar with
+Traditional
+Accroutements, Mini
+Sobao Rolls and
+Begrhirs
+Eggs
+Fish
+Gluten
+Pork
+Dairy
+Allium
+M.O.P. Spoon
+Demi Spoons
+Catch of the Day
+Local Caught Wild
+Catch with Olive
+Tapenade, Basil and
+Grapefruit
+Fish
+Nightshade
+Allium
+Spoon
+Fork
+Conch
+Local Caught Wild
+Conch with Avocado,
+Serrano chili and a
+Fennel-Cucumber
+Aqua Pazza
+Molusks
+Fish
+Spoon
+Fork
+
+Snapper
+Local Queen Snapper,
+with Salmoriglio, Trout
+Roe and Finger Lime
+Allium
+Fish
+Spoon
+Fork
+Bluefin Tuna
+Bluefina Bluefin Tuna,
+Preserved Lemon,
+EVOO and Caviar
+Fish Spoon
+Fork
+PRIMI
+Fritto Misto
+Lightly Dusted and
+Fried Shrimp,
+Calamari and Zucchini
+with Lemon Aioli
+Gluten
+Shellfish
+Egg
+Knife
+Fork
+Lobster Burrata
+Marinated Maine
+Lobster over Chopped
+Burrata with Tomato
+Conserva, Pickled
+Eggplant and Basil
+Shellfish
+Nightshade
+Sulfite
+Knife
+Fork
+Fattoush Salad
+Garden Greens with
+Toasted Pita,
+Tomatoes, Sumac,
+Cucumbers, White
+Anchovy and
+Pomegranete Vin.
+Fish
+Gluten
+Allium
+Fork
+Knife
+Pulpo a la
+Plancha
+Red-Wine Braised
+Spanish Octopus with
+Lardo and Date Salsa
+Verde
+Pork
+Sulfite
+Allium
+Nightshade
+Knife
+Fork
+
+Fatteh
+Roasted Eggplant and
+Chickpea Salad with
+Toasted Pita, Pine
+Nuts and Lemon-Herb
+Yogurt
+Gluten
+Nightshade
+Nuts
+Allium
+Dairy
+Fork
+Spoon
+Finocchio e
+Rucola
+Shaved Fennel and
+Arúgula with
+Radicchio, Endive,
+Pistachios and Citrus
+Vinaigrette
+Nuts
+Daity
+Fish
+Fork
+Knife
+PASTA
+Mushroom
+Risotto
+Acquarelle Risotto,
+Mixed Mushrooms
+,Marsala, Parmiggiano
+Reggiano and Beef Jus
+Dairy
+Sulfites
+Allium
+Spoon
+Fork
+Malloreddus
+Sardinian Gnocchi
+with Pomodoro and
+Charred Ricotta
+Salata
+Nightshade
+Gluten
+Egg
+Allium
+Spoon
+Fork
+Pansotti
+Squid Ink Lobster
+Ravioli, Shellfish
+Bisque and Fennel
+Gluten
+Shellfish
+Dairy
+Nightshade
+Allium
+Egg
+Spoon
+Fork
+Mafaldine
+Fresh Mafaldine pasta
+with Wild Boar Ragu
+and Parmiggiano
+Reggiano
+Gluten
+Pork
+Dairy
+Nightshade
+Allium
+Egg
+Spoon
+Fork
+
+Fusili
+Frresh Fusili Pasta
+with Red Wine Braised
+Octopus , Bone
+Marrow and Mollica
+Gluten
+Dairy
+Allium
+Nightshade
+Spoon
+Fork
+Casarecce
+Fresh Casarecce
+Pasta, Blue Crab,
+Harissa and Preserved
+Lemon
+Gluten
+Crustacean
+Egg
+Nightshade
+Allium
+Spoon
+Fork
+PRINCIPALE
+Swordfish
+Grilled Swordfish with
+Black Lentils, Cured
+Belly and Chermoula
+Fish
+Allium
+Fork
+Knife
+Grouper
+Seared Local Grouper,
+Fennel, Citrus and
+Orange Vinaigrette
+Fish
+Allium
+Fork
+Knife
+Prawns
+Head-On Prawns,
+Gigante Beans,
+Cucumber, Green
+Harissa and N’Duja
+Vinaigrette
+Shellfish
+Nightshade
+Fork
+Knife
+
+Cod
+Pan Roasted Merluza,
+Calamar Diamante,
+Garbanzo, Tomato and
+Spanish Chorizo
+Fish
+Pork
+Nightshade
+Fork
+Knife
+Lamb
+Colorado Lamb Rack,
+Fregola Stuffed
+Pepper, Zucchini, Feta
+and Natural Jus
+Gluten
+Nightshade
+Dairy
+Allium
+Fork
+Steak Knife
+Chicken
+Harissa Marinated Pan
+Roasted Half Chicken,
+Riso al Salto and
+Natural Jus
+Allium
+Nightshade
+Dairy
+Fork
+Steak Knife
+NY Steak
+Prime New York Steak,
+Rosemary Potatoes,
+Broccolini and Red
+Wine Jus
+Dairy
+Egg
+Allium
+Sulfites
+Fork
+Steak Knife
+Cauliflower
+Grilled Cauliflower,
+Chickpea Panelli,
+Herbs, Dukkah and
+Tarator Sauce
+Allium
+Nuts
+Fork
+Steak Knife
+Branzino
+Whole Broiled
+Branzino with Salsa
+Verde, Mollica and
+Charred Lemon
+Dairy
+Allium
+Fish
+Gluten
+Fork
+Knife
+
+Bisteca
+Fiorentina
+(45 Day Dry-
+Aged
+Porterhouse)
+Charcoal Grilled 45-
+Day Dry Aged Beef
+Porterhouse with
+Green Harissa and
+Beef Jus
+Dairy
+Allium
+Nightshade
+Steak Knife
+Fork
+Spoon (Sauce)
+SIDES
+Roasted Carrots
+Roasted Baby Carrots,
+Harissa, Almonds,
+Dates and Herbs
+Nuts
+Allium
+Nightshade
+Fork
+Knife
+Sauteed
+Mushrooms
+Sauteéd Mixed
+Mushrooms, Za’tar,
+Roasted Peppers
+Allium
+Nightshade Spoon
+Patatas Bravas
+Crispy Fingerling
+Potatoes, Smoked
+Paprika
+Garlic and Spicy Aioli
+Allium
+Nightshade Fork
+Broccolini
+Charred Broccolini,
+Lemon, Breadcrumbs Allium Fork
+Knife
+
+DESSERT
+Dish Photo Wording Allergens Marking Notes
+Ciccolato
+Chocolate Mousse,
+Chocolate Cake,
+Hazelnut and Tahini
+Gelato
+Gluten
+Nuts
+Dairy
+Spoon
+Pavlova
+Meringue,
+Pomegranate,
+Raspberry, Rosemary
+Ganache, Greek
+Yogurt Sorbet
+Spoon
+Baklava
+Katifi, Pistachio
+Cream, Honey Brittle,
+Pistachio Praline and
+Walnut Ice Cream
+Gluten
+Nuts Spoon
+Galactoboureko
+Semolina Custard,
+Phyllo, Olive Oil,
+Honey and
+Cardamom Gelato
+Gluten
+Dairy
+Spoon
+Budino
+Levant
+Dark Chocolate and
+Espresso Cremeux
+Coffee Gelee,
+Mascarpone Cream
+Gluten
+Dairy Spoon
+Gelato Gelato
+(Rotating Selection)
+Dairy
+Vary Per Flavors
+Spoon
+Sorbeto Sorbeto
+(Rotating Selection) Vary Per Flavors Spoon
