@@ -1,5 +1,6 @@
 import { categories, testQuestions } from './menuData';
 import QuestionCard from './QuestionCard';
+import WineSheet from './WineSheet';
 
 /**
  * @component QuestionSection
@@ -11,27 +12,47 @@ import QuestionCard from './QuestionCard';
  * @param {function} props.onSubmit - Callback for test submission
  */
 const QuestionSection = ({ currentCategory, userAnswers, onAnswerSelect, onSubmit }) => {
+  // Check if current category is a wine-related category
+  const isWineCategory = ['redwines', 'whitewines', 'roséwines', 'sparklingwines', 'winescheatsheet'].includes(currentCategory);
+
   return (
     <>
       <h2 className="text-xl font-semibold mb-6 text-amber-800 text-center">
         {categories.find(c => c.id === currentCategory)?.name} Section
       </h2>
 
-      {testQuestions[currentCategory]?.map(dish => (
-        <QuestionCard
-          key={dish.id}
-          dish={dish}
-          userAnswers={userAnswers}
-          onAnswerSelect={onAnswerSelect}
-        />
-      ))}
+      {/* Display different components based on category type */}
+      {isWineCategory ? (
+        // Display wine information using WineSheet component
+        testQuestions[currentCategory] ? (
+          testQuestions[currentCategory].map(wine => {
+            console.log('Wine data being passed to WineSheet:', wine);
+            return <WineSheet key={wine.id} wine={wine} />;
+          })
+        ) : (
+          <p className="text-center text-amber-700">No wine data available for this category.</p>
+        )
+      ) : (
+        // Display food questions using QuestionCard component
+        testQuestions[currentCategory]?.map(dish => (
+          <QuestionCard
+            key={dish.id}
+            dish={dish}
+            userAnswers={userAnswers}
+            onAnswerSelect={onAnswerSelect}
+          />
+        ))
+      )}
       
-      <button
-        onClick={onSubmit}
-        className="w-full py-3 bg-amber-600 text-white rounded-md hover:bg-amber-700 font-medium"
-      >
-        Submit Answers
-      </button>
+      {/* Only render submit button for non-wine categories */}
+      {!isWineCategory && (
+        <button
+          onClick={onSubmit}
+          className="w-full py-3 bg-amber-600 text-white rounded-md hover:bg-amber-700 font-medium"
+        >
+          Submit Answers
+        </button>
+      )}
     </>
   );
 };

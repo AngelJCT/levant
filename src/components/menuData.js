@@ -9,7 +9,13 @@ export const categories = [
   { id: 'pasta', name: 'Pasta' },
   { id: 'principale', name: 'Principale' },
   { id: 'sides', name: 'Sides' },
-  { id: 'dessert', name: 'Dessert' }
+  { id: 'dessert', name: 'Dessert' },
+  { id: 'drinks', name: 'Drinks' },
+  { id: 'redwines', name: 'Red Wines' },
+  { id: 'whitewines', name: 'White Wines' },
+  { id: 'roséwines', name: 'Rosé Wines' },
+  { id: 'sparklingwines', name: 'Sparkling Wines' },
+  { id: 'winescheatsheet', name: 'Wines Cheat Sheet' },
 ];
 
 /**
@@ -2443,5 +2449,256 @@ export const testQuestions = {
         }
       ]
     }
+  ],
+  redwines: [
+    {
+      id: 'redwine-1',
+      name: 'Cuvée du Soleil',
+      type: 'Red',
+      winery: 'Sept Winery',
+      region: 'Mount Lebanon, Lebanon',
+      year: '2019',
+      price: '37',
+      description: 'Cuvée du Soleil is produced by Sept Winery, a Lebanese winery known for its biodynamic practices and located in regions like the Bekaa Valley or North Bekaa. Lebanon has a rich wine history, with a Mediterranean climate featuring hot, dry summers and cool nights, ideal for producing red wines with fruit intensity and structure. The wine is cultivated from grapevines on the eastern hillsides of Mount Lebanon, suggesting a terroir that contributes to its unique profile.',
+      grapes: 'Cabernet Sauvignon, Tempranillo',
+      nose: 'Aromas of red fruits, such as cherries, raspberries, and possibly blackberries, consistent with Lebanese red wine characteristics noted in general wine literature. There is also a hint of leather, adding depth. These fruit and spice notes are typical of wines from the region, which often reflect Mediterranean terroir with oriental spice influences.',
+      palate: 'The wine is described as having an elegant roundness and silky tannins. It is fresh and fruity, with possible notes of spices or cedar, aligning with the woody and complex profiles sometimes found in Lebanese reds. The light and fresh nature, suggests it is approachable and versatile, suitable for various pairings.',
+      foodPairings: [
+        {
+          category: 'Mezze',
+          dishes: 'Taramasalata, Tzatziki, Muhammara, Hummus, Baba Ghanoush, Tirokafteri',
+          pairing: 'Tirokafteri (spicy cheese spread) likely pairs well due to spice.'
+        },
+        {
+          category: 'Crudos',
+          dishes: 'Oysters, Bluefin Tuna, Kibbeh Nayeh, Catch of the Day, Conch, Snapper',
+          pairing: 'Kibbeh Nayeh (raw meat with spices) fits the spicy pairing note.'
+        },
+        {
+          category: 'Primi',
+          dishes: 'Fritto Misto, Finocchio e Rucola, Fatteh, Pulpo a la Plancha, Lobster Burrata',
+          pairing: 'Pulpo a la Plancha (grilled octopus) and Fatteh (spicy and flavorful) are suitable.'
+        },
+        {
+          category: 'Pasta',
+          dishes: 'Mushroom Risotto, Mafaldine, Casarecce, Fusili, Malloredus, Pansotti',
+          pairing: 'Depends on sauce; spicy tomato-based pastas would pair well.'
+        },
+        {
+          category: 'Principale',
+          dishes: 'Swordfish, Cod, NY Steak, Bisteca Fiorentina, Branzino, Cauliflower, Grouper, Chicken',
+          pairing: 'Fish like Prawns or Swordfish with spices, and lighter preparations of Chicken, would complement.'
+        },
+        {
+          category: 'Sides',
+          dishes: 'Roasted Carrots, Sauteed Mushrooms, Patatas Bravas, Broccolini',
+          pairing: 'Patatas Bravas (spicy potatoes) is a strong match.'
+        }
+      ],
+      conclusion: 'Cuvée du Soleil from Sept Winery is a light, fruity red wine with an elegant, silky texture, ideal for pairing with spicy Mediterranean dishes. A blend of Tempranillo and Cabernet grapes, offering red fruit aromas and a versatile palate.'
+    },
+    {
+      id: 'redwine-2',
+      name: 'Massaya Terrasses de Baalbeck',
+      type: 'Red',
+      winery: 'Massaya',
+      region: 'Beqaa Valley, Lebanon',
+      year: '2020',
+      price: '32',
+      description: 'Massaya Terrasses de Baalbeck is produced by Massaya Winery, a prominent Lebanese winery located in the Bekaa Valley, a region known for its long history of winemaking and Mediterranean climate featuring hot, dry summers and cool nights. The winery was founded in 1998 by the Ghosn brothers in partnership with French winemakers Dominique Hébrard and Hubert de Boüard, aiming to revive and elevate Lebanese wine on the global stage. The Terrasses de Baalbeck line is named after the ancient Roman ruins at Baalbeck, reflecting the wine’s connection to Lebanon’s rich cultural heritage.',
+      grapes: 'Grenache, Syrah, Mouvédre',
+      nose: 'Dominant fruit notes of red fruit and ripe cherries are also apparent. Snippets further elaborate on this with mentions of bright red and black fruit character, blackberry, dark fruit, and blackcurrant. These descriptors indicate a layered fruit profile, ranging from the vibrancy of fresh red berries to the richer, more concentrated notes of darker fruits. Adding complexity to the aromatic bouquet are warm spice notes, including specific mentions of pepper and licorice. These spicy nuances, often contributed by the Syrah and Mourvèdre in the blend, enhance the wine’s aromatic depth. Furthermore, an earthy quality is noticeable, sometimes described as toasty.',
+      palate: 'The fruit-forward character noted on the nose continues on the palate with flavors of "ripe cherries" and "red fruits". As the wine evolves on the palate, notes of "black olive" and "spiced plum" emerge , adding layers of savory and slightly darker fruit complexity. A notable characteristic is the presence of "crushed rocks minerality" , which contributes a refreshing and often slightly saline or stony sensation. This minerality is complemented by "decent acidity" , a crucial element that provides balance to the wine and makes it a suitable partner for a variety of foods. Describing the wine to customers as having "juicy red fruit flavors, smooth tannins, and a refreshing finish with a hint of minerality" effectively captures its key characteristics in an accessible manner.',
+      foodPairings: [
+        {
+          category: 'Mezze',
+          dishes: 'Muhammara',
+          pairing: 'The inherent fruitiness of the wine can beautifully complement the sweetness of the roasted peppers in the Muhammara, while the wine earthy undertones and subtle tannins can harmonize with the richness of the walnuts.'
+        },
+        {
+          category: 'Crudo',
+          dishes: 'Kibbeh Nayeh',
+          pairing: 'The structure and potential for subtle gamey notes in the wine can create a complementary pairing with the raw lamb in the Kibbeh Nayeh. The wine spice notes can also echo any spices present in the dish.'
+        },
+        {
+          category: 'Primi',
+          dishes: 'Pulpo a la Plancha',
+          pairing: 'While the octopus is braised in red wine, the Massaya vibrant fruit and spice notes can offer a counterpoint to the texture of the octopus and the bright flavors of the date salsa verde.'
+        },
+        {
+          category: 'Primi',
+          dishes: 'Fatteh',
+          pairing: 'The wine earthy characteristics and ripe fruit flavors can provide a pleasant contrast to the roasted eggplant and chickpeas in the Fatteh, while the acidity can cut through the richness of the lemon-herb yogurt.'
+        },
+        {
+          category: 'Pasta',
+          dishes: 'Mafaldine',
+          pairing: 'The wine medium body and potential for rustic notes make it a classic pairing for the Wild Boar Ragu. The tannins in the wine will also help to balance the richness of the meat sauce.'
+        },
+        {
+          category: 'Principale',
+          dishes: 'Lamb',
+          pairing: 'Lamb is a traditional pairing for Rhône-style blends. The Massaya fruit-forward character and spicy notes will beautifully complement the richness and distinct flavor of the Colorado Lamb Rack.'
+        },
+        {
+          category: 'Principale',
+          dishes: 'Swordfish',
+          pairing: 'Although pairing red wine with fish requires careful consideration, the fuller body and structure of this Lebanese red, along with its earthy notes, might create an interesting pairing with the richness of the Grilled Swordfish and the earthiness of the Black Lentils. This represents a more adventurous pairing option.'
+        },
+        {
+          category: 'Principale',
+          dishes: 'Chicken',
+          pairing: 'The spicy notes present in the wine will find a harmonious counterpart in the Harissa Marinated Pan Roasted Half Chicken. The wine fruitiness will also provide a pleasant contrast to the savory flavors of the chicken.'
+        }
+      ]
+    },
+    {
+      id: 'redwine-3',
+      name: 'Mount Veeder',
+      type: 'Red',
+      winery: 'Mount Veeder',
+      region: 'Napa Valley, California',
+      year: '2021',
+      price: '29',
+      description: 'Mount Veeder Cabernet Sauvignon is produced by Mount Veeder Winery in Napa Valley’s Mount Veeder AVA, established in the 1960s by Michael and Arlene Bernstein, with its first vintage in 1973. Located on steep slopes at elevations between 750 and 1,500 feet, the vineyards benefit from a Mediterranean-like climate—warm days, cool nights, and a long growing season. The rocky, clay-rich soils yield low quantities of intensely flavored grapes, contributing to the wine’s bold structure and complexity. This region is known for producing powerful yet refined Cabernet Sauvignon, reflecting Napa Valley’s reputation for premium wines.',
+      grapes: 'Cabernet Sauvignon',
+      nose: 'Expressive on the nose with notes of baking spices, cedar, fig, and black cherry',
+      palate: 'Notes of brooding red fruit flood the palate—the wine is soft yet structured on the palate, with plush tannins, moderate acidity, and a long finish that lingers with notes of black tea and bramble.',
+      foodPairings: [
+        {
+          category: 'Mezze',
+          dishes: 'Tirokafteri',
+          pairing: 'The spice in the feta provides a contrast to the wine’s richness while its creamy texture softens the tannins.'
+        },
+        {
+          category: 'Crudo',
+          dishes: 'Kibbeh Nayeh',
+          pairing: 'The raw lamb’s earthy and spiced flavors enhance the wine’s dark fruit and savory notes.'
+        },
+        {
+          category: 'Primi',
+          dishes: 'Pulpo a la Plancha',
+          pairing: 'The octopus’s richness and lardo complement the wine’s depth without overpowering it.'
+        },
+        {
+          category: 'Pasta',
+          dishes: 'Mafaldine',
+          pairing: 'The gamey ragu matches the wine’s bold fruit and tannic structure perfectly.'
+        },
+        {
+          category: 'Principale',
+          dishes: 'Lamb',
+          pairing: 'Grilled lamb’s robust flavor is a classic match for Cabernet Sauvignon’s intensity.'
+        },
+        {
+          category: 'Sides',
+          dishes: 'Roasted Carrots',
+          pairing: 'The harissa adds a spicy kick that complements the wine’s spice and earthiness.'
+        }
+      ],
+      conclusion: 'Mount Veeder Cabernet Sauvignon Napa Valley is a bold, structured red wine with rich fruit flavors and firm tannins, ideal for pairing with hearty Mediterranean dishes. Its tasting notes—baking spices on the nose and blackberry on the palate—make it a standout choice for grilled meats and rich sauces.'
+    },
+    {
+      id: 'redwine-4',
+      name: 'Nebbiolo d\'Alba DOC',
+      type: 'Red',
+      winery: 'Paolo Monti',
+      region: 'Piedmont, Italy',
+      year: '2018',
+      price: '29',
+      description: 'Nebbiolo d\'Alba DOC Monti is produced by Paolo Monti in the Piedmont region of Italy. The Nebbiolo d\'Alba DOC classification, granted in 1970, encompasses wines made from Nebbiolo grapes grown around the town of Alba in Piedmont, a region known for its rich winemaking heritage. Paolo Monti\'s winery, established with a vision for quality, is located in prime areas such as Monforte d\'Alba, benefiting from a Mediterranean-like climate with hot days and cool nights. This climate contributes to the development of Nebbiolo\'s characteristic aromas and structure, making it a step down from the more famous Barolo and Barbaresco but designed for earlier drinking.',
+      grapes: 'Nebbiolo',
+      nose: 'On the nose, the wine presents a brilliant ruby-red color with garnet reflections, offering aromas of cherry, blackberry, red currant, cinnamon, and violet',
+      palate: 'On the palate, it is fresh and elegant, with firm yet silky tannins that stretch over delicate spiciness, leaving the palate satisfied',
+      foodPairings: [
+        {
+          category: 'Mezze',
+          dishes: 'Tirokafteri',
+          pairing: 'The spice complements the wine’s freshness and tannins, balancing its elegance'
+        },
+        {
+          category: 'Crudos',
+          dishes: 'Kibbeh Nayeh',
+          pairing: 'Raw lamb aligns with the wine’s suggested pairings for raw meat preparations.'
+        },
+        {
+          category: 'Pasta',
+          dishes: 'Mafaldine',
+          pairing: 'The rich gamey flavor of wild boar ragu matches the wine’s structure and tannins.'
+        },
+        {
+          category: 'Principale',
+          dishes: 'Lamb',
+          pairing: 'Rack of lamb enhance the wine’s fruit and tannin profile.'
+        },
+        {
+          category: 'Principale',
+          dishes: 'NY Steak',
+          pairing: 'Beef pairs classically with Nebbiolo, complementing its bold yet refined character.'
+        },
+        {
+          category: 'Principale',
+          dishes: 'Bisteca Fiorentina',
+          pairing: 'Another beef option that complements the wine’s depth and structure.'
+        }
+      ],
+      conclusion: 'Nebbiolo d\'Alba DOC Monti is an elegant red wine with fresh fruit aromas and silky tannins, ideal for pairing with Mediterranean dishes. Its versatility shines through in pairings like Kibbeh Nayeh (raw lamb), Mafaldine with Wild Boar Ragu (rich pasta), and Lamb Rack (classic meat pairing).'
+    },
+    {
+      id: 'redwine-5',
+      name: 'Serras del Priorat',
+      type: 'Red',
+      winery: 'Clos Figueras',
+      region: 'Priorat, Catalonia, Spain',
+      year: '2022',
+      price: '28',
+      description: 'Clos Figueras Serras del Priorat is produced by Clos Figueras, a winery in the Priorat region of Catalonia, Spain. Priorat, granted Denominació d\'Origen Qualificada (DOQ) status in 2000, is known for its rugged terrain, black volcanic soils (llicorella), and Mediterranean climate with long, hot summers and cool nights. Christopher Cannan purchased the estate in 1997, advised by René Barbier of Clos Mogador, and it has since established itself as a reference within classic Priorat wines. The vineyards, located just north of Gratallops, cover terraced slopes of pure schist, contributing to the wine\'s intensity and minerality',
+      grapes: 'Grenache, Carignan, Syrah',
+      nose: 'On the nose, it offers primary aromas of red fruit, such as cherry and raspberry, with subtle floral touches, complemented by notes of minerality, vanilla, and Mediterranean herbs, as noted in the winemaker’s tasting notes.',
+      palate: 'On the palate, it is fresh with a wide entry, featuring round and soft tannins, balanced acidity, and a pleasant freshness, with a long, satisfying finish.',
+      foodPairings: [
+        {
+          category: 'Mezze',
+          dishes: 'Tirokafteri',
+          pairing: 'The spice in the feta complements the wine\'s freshness and red fruit notes, balancing its tannins.'
+        },
+        {
+          category: 'Crudos',
+          dishes: 'Kibbeh Nayeh',
+          pairing: 'The raw lamb enhances the wine\'s red fruit and mineral characteristics, creating a harmonious match.'
+        },
+        {
+          category: 'Primi',
+          dishes: 'Pulpo a la Plancha',
+          pairing: 'The octopus\'s richness is balanced by the wine\'s acidity and tannins, while the red wine sauce in the dish complements the wine\'s oak aging.'
+        },
+        {
+          category: 'Pasta',
+          dishes: 'Fusili',
+          pairing: 'The red wine in the sauce aligns with the wine\'s flavors, while the pasta\'s lighter texture suits its medium body.'
+        },
+        {
+          category: 'Principale',
+          dishes: 'Lamb',
+          pairing: 'Grilled lamb\'s robust flavor matches the wine\'s structure and fruitiness, a classic pairing for red wines.'
+        },
+        {
+          category: 'Sides',
+          dishes: 'Patatas Bravas',
+          pairing: 'The smokiness and spice of the potatoes add complexity to the wine\'s Mediterranean herb and mineral notes.'
+        },
+      ]
+    }
+  ],
+  whitewines: [
+  ],
+  roséwines: [
+    
+  ],
+  sparklingwines: [
+    
+  ],
+  winescheatsheet: [
+    
   ]
 };
